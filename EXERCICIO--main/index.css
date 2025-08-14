@@ -1,0 +1,19 @@
+.formulario {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid red;
+    background-color: purple;
+}
+
+.formulario input[type="number"] {
+    width: 80%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.formulario input[type="button"] {
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
